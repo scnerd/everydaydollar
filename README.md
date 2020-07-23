@@ -1,7 +1,3 @@
-![Build Status](https://gitlab.com/pages/gatsby/badges/master/build.svg)
-[![Build Status](https://gitlab.com/pages/gatsby/badges/master/pipeline.svg)](https://gitlab.com/pages/gatsby/-/commits/master)
----
-
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
