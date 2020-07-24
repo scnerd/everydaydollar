@@ -1,5 +1,9 @@
+const projectPathPrefix =
+  process.env.CI_PROJECT_NAME || "gatsby"
+
 module.exports = {
-  pathPrefix: `/gatsby`,
+  // Use CI_PROJECT_NAME variable as pathPrefix, edit/comment if you want to use a custom domain.
+  pathPrefix: `/${projectPathPrefix}`,
   siteMetadata: {
     title: `Gatsby Default Starter`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
