@@ -1,5 +1,5 @@
 const projectPathPrefix =
-  process.env.CI_PROJECT_NAME || "gatsby"
+  process.env.CI_PROJECT_NAME || "everydaydollar"
 
 module.exports = {
   // Use CI_PROJECT_NAME variable as pathPrefix, edit/comment if you want to use a custom domain.
