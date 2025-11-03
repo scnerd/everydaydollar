@@ -1,0 +1,39 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'The Easy Dollar'
+theme = 'PaperMod'
+
+[params]
+  description = "Money Management, Made Simple"
+  author = "The Easy Dollar"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+
+[params.homeInfoParams]
+  Title = "The Easy Dollar"
+  Content = "Money Management, Made Simple. Know what you want to do with your money, but not sure how to do it? I'm here to help you understand."
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "outline"
+    name = "Outline"
+    url = "/outline/"
+    weight = 20
+
+[markup.goldmark.renderer]
+  unsafe = true
