@@ -1,5 +1,6 @@
 ---
 title: "How to Budget: The Zero-Balance Method"
+author: claude
 date: 2025-11-10
 categories:
   - "personal-finances"
