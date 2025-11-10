@@ -1,6 +1,7 @@
 ---
 title: "Allocations and Rebalancing: The Math Behind 60/40"
 date: 2025-11-10
+author: claude
 categories:
   - "investing"
 tags:
