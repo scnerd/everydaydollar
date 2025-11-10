@@ -19,7 +19,7 @@ You can't invest wisely if you don't know where your money's going. Start here.
     - Why I'd avoid Mint and such *(coming soon)*
 
 - Banking
-    - Banking 101: Checking, Savings, and High-Yield Accounts *(coming soon)*
+    - [Banking 101: Checking, Savings, and High-Yield Accounts](/posts/banking-101-checking-savings-and-high-yield-accounts/)
 
 - Insurance
     - Insurance: What You Actually Need *(coming soon)*

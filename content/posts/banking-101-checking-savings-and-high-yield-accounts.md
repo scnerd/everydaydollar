@@ -1,6 +1,7 @@
 ---
 title: "Banking 101: Checking, Savings, and High-Yield Accounts"
 date: 2025-11-10
+author: claude
 categories:
   - "personal-finances"
 tags:
