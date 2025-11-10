@@ -12,11 +12,7 @@ The Easy Dollar isn't a traditional blog, it's a reference. Everything's organiz
 You can't invest wisely if you don't know where your money's going. Start here.
 
 - Budgeting
-    - How to Budget: The Zero-Balance Method *(coming soon)*
-
-    - YNAB and EveryDollar *(coming soon)*
-
-    - Why I'd avoid Mint and such *(coming soon)*
+    - [How to Budget: The Zero-Balance Method](/posts/how-to-budget-the-zero-balance-method/)
 
 - Banking
     - Banking 101: Checking, Savings, and High-Yield Accounts *(coming soon)*
