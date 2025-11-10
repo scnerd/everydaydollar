@@ -37,7 +37,7 @@ Once you have your financial foundation, it's time to make your money work for y
 - Understanding Investments
     - [What are stocks and bonds?](/posts/what-are-stocks-and-bonds/)
 
-    - Allocations and Rebalancing *(coming soon)*
+    - [Allocations and Rebalancing: The Math Behind 60/40](/posts/allocations-and-rebalancing/)
 
     - Alternatives to stocks and bonds *(coming soon)*
 
