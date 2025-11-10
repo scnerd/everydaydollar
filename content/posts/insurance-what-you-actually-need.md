@@ -1,5 +1,6 @@
 ---
 title: "Insurance: What You Actually Need"
+author: claude
 date: 2025-11-10
 categories:
   - "personal-finances"
