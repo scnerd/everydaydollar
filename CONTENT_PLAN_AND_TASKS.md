@@ -77,7 +77,6 @@ This site teaches financial literacy to **everyday people who feel lost or conne
 ❌ Trusting financial "advisors" without questioning them
 
 ### Tone Notes
-- Curse occasionally for emphasis (e.g., "leave it the f*** alone")
 - Reference Dave Ramsey, Bogleheads, and trusted sources by name
 - Use real examples and scenarios (e.g., car emergencies, compound growth over 43 years)
 - Acknowledge the reader's fear/confusion without dismissing it
